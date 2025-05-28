@@ -2,7 +2,7 @@
  * ad7793.c
  *
  *  Created on: Aug 28, 2024
- *      Author: Petro Zaichenko / Axel Chabot
+ *      Author: Pozh
  */
 
 #include "ad7793.h"
