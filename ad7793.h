@@ -2,7 +2,7 @@
  * ad7793.h
  *
  *  Created on: Aug 28, 2024
- *      Author: User
+ *      Author: Pozh
  */
 
 #ifndef INC_AD7793_H_
